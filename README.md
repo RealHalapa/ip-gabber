@@ -1,4 +1,4 @@
-# ip-graber
+# ip-grabber
 A garbage ip grabber
 read the wiki to understand how the hell is this work
 
